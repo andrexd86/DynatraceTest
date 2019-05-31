@@ -23,6 +23,8 @@
   "_shasum": "5c40704dff116a395f59f11c531dbeb8f481f5cc",
   "_spec": "dynatrace-cordova-plugin",
   "_where": "C:\\Users\\ealatacr\\Desktop\\Cordova\\jam",
+    "custom_src_dir": "files",
+    "custom_www_dir": "other",
   "author": {
     "name": "Dynatrace"
   },
